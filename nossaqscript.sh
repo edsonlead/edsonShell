@@ -3,20 +3,19 @@
 #####[FICHA]#############################
 #					#
 # Nome: nossaQScript			#
-# Versão: 2.0				#
+# Versão: 0.4				#
 # Autor: Edson Araújo			#
 # Blog: edsonlead.blog.br		#
 #					#
 # ------------------------------------- #
 #					#
-# DescriçãoV1: Script desenvolvido para	#
-# facilitar a instalação do LAMP, seus	#
-# componentes separados e o CMS Joomla.	#
-# ------------------------------------  #
-# DescriçãoV2: alterações aplicadas(	#
-# menu principal, tratamento de telas,	#
-# troca de nome do aplicativo)		#
+# Descrição: Script desenvolvido para	#
+# facilitar a instalação de ambientes   #
+# em distros GNU/Linux como o Debian	#
+# e o Ubuntu.				#
+# 					#
 #########################################
+
 while : ; do
 	
 menu=$(dialog --stdout \
@@ -70,7 +69,9 @@ case $menu in
 								esac;;
 	
 esac;;
-		Sobre) dialog --title 'Sobre' --msgbox 'Nome: installShell\nVersão: 2.0\nAutor: Edson Araújo\nBlog: edsonlead.blog.br' 10 40 ;;
+		Sobre) dialog --title 'Sobre' --msgbox 'Nome: nossaQScript\nVersão: 0.4\nAutor: Edson Araújo\nBlog: edsonlead.blog.br' 10 40 ;;
 		Sair) dialog --title 'Você escolheu Sair' --msgbox 'Obrigado por utilizar este Aplicativo\nAcesse: edsonlead.blog.br' 6 40 ; break;;
 esac
 done
+
+clear
