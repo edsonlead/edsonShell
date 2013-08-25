@@ -1,6 +1,8 @@
-edsonShell
+nossaQScript v.0.4
 
-Script para instalação do ambiente LAMP e Joomla
+Script para instalação de ambientes no Gnu/Linux.
+Distros como Debian e Ubuntu.
+
 
 Acesse: edsonlead.blog.br
 ==========
