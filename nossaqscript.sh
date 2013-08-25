@@ -2,7 +2,7 @@
 #
 #####[FICHA]#############################
 #					#
-# Nome: installShell			#
+# Nome: nossaQScript			#
 # Versão: 2.0				#
 # Autor: Edson Araújo			#
 # Blog: edsonlead.blog.br		#
