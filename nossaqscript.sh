@@ -5,7 +5,7 @@
 # Nome: nossaQScript			#
 # Versão: 0.4				#
 # Autor: Edson Araújo			#
-# Blog: edsonlead.blog.br		#
+# Blog: noturno.blog.br	 		#
 #					#
 # ------------------------------------- #
 #					#
